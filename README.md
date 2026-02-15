@@ -1,7 +1,8 @@
-# terrazoe-showcase
-# Terrazoe - Biofertilizer & Vermicompost Platform 🌿
+# Terrazoe | Drop Life Into Soil 
 
-**Live Website:** [https://terrazoe.in](https://terrazoe.in)
+**Live Website:**
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-terrazoe.in-1a4d2e?style=for-the-badge&logo=safari&logoColor=white)](https://terrazoe.in)
 
 ## 🚀 Project Overview
 Terrazoe is a startup focused on sustainable agriculture, providing 100% organic biofertilizers delivered in biodegradable capsules. This platform serves as the primary e-commerce and informational hub for the brand.
